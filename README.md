@@ -71,4 +71,3 @@ jupyter notebook "Basieva hw4.ipynb"
 ```
 
 Ноутбук должен лежать в одной папке с `erdman.txt`. На выходе получится `erdman_stepanova_letters.csv` в текущей директории.
-````
